@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there, <br>👨🏽‍💻 I'm Subhashish Paramanik<br>👨🏽‍💼 I have 2 years of industrial experience, currently working as freelancer<br>👨🏽‍🎓 I have completed my bachelor degree in BCA.
+👋 Hello there, <br>👨🏽‍💻 I'm Subhashish Paramanik<br>👨🏽‍💼 I am currently working as freelancer<br>👨🏽‍🎓 I have completed my bachelor degree in BCA.
 
 
 ## 🌐 Socials:
